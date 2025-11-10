@@ -11,11 +11,11 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Work Projects
+      text: Here are a selection of Working projects that I have worked on over the years in my professional career.
       filters:
         folders:
-          - projects
+          - working-projects
     design:
       view: article-grid
       fill_image: false
@@ -26,11 +26,11 @@ sections:
 
   - block: collection
     content:
-      title: Working Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Education Projects
+      text: Here are a selection of projects that I have done during my study.
       filters:
         folders:
-          - projects
+          - education-projects
     design:
       view: article-grid
       fill_image: false
