@@ -63,7 +63,8 @@ education:
     summary: |
       GPA: 18.73/20 (3.83/4.0)
 
-      With concentration in AI and Software
+      With concentration in AI and Software. 
+      Thesis: Graph Outlier Detection using Graph Diffusion Models
 
 work:
   - position: Software Engineer
