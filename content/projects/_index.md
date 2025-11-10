@@ -11,11 +11,11 @@ design:
 sections:
   - block: collection
     content:
-      title: Work Projects
-      text: Here are a selection of Working projects that I have worked on over the years in my professional career.
+      title: Education Projects
+      text: Here are a selection of projects that I have done during my study.
       filters:
         folders:
-          - working-projects
+          - education-projects
     design:
       view: article-grid
       fill_image: false
@@ -26,11 +26,11 @@ sections:
 
   - block: collection
     content:
-      title: Education Projects
-      text: Here are a selection of projects that I have done during my study.
+      title: Work Projects
+      text: Here are a selection of Working projects that I have worked on over the years in my professional career.
       filters:
         folders:
-          - education-projects
+          - working-projects
     design:
       view: article-grid
       fill_image: false
