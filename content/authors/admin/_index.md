@@ -87,7 +87,7 @@ work:
     company_url: 'https://asr-gooyesh.com/en/'
     icon: ''
     date_start: 2023-07-10
-    date_end: 2025-9-15
+    date_end: 2025-09-15
     summary: |
       Worked as a NLP intern and trained two persian Text-to-Speech models with VITS and Fastspeech and google colab
 
