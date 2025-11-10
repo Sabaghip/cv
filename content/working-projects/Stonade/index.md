@@ -1,6 +1,6 @@
 ---
 title: Stonade
-date: 2023-1-15
+date: 2023-01-15
 links:
   - type: site
     url: https://stonade.co.uk/
