@@ -3,7 +3,7 @@ title: Medic Metaverse
 date: 2025-08-15
 links:
   - type: site(still not ready)
-    url: pwa.medicmetaverse.com/
+    url: httpss://pwa.medicmetaverse.com/
 tags:
   - Python
   - Django
