@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Computer Engineer
+role: Backend Software Engineer | Distributed Systems | Incoming M.Sc. CS @ University of Bonn
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -42,19 +42,19 @@ profiles:
     url: https://www.linkedin.com/in/parsa-sabaghi-50715522b/
 
 interests:
-  - Software Systems
-  - Artificial intelligence
+  - Distributed Systems
+  - Event-Driven Architectures
+  - Backend Performance Optimization
+  - Scalable Microservices
 
 education:
-  # - area: MS Computer Science
-  #   institution: Carnegie Mellon University
-  #   icon: ""
-  #   date_start: 2013-09-01
-  #   date_end: 2015-05-31
-  #   summary: |
-  #     GPA: 4.0/4.0
+  - area: M.Sc. Computer Science (Starting April 2026)
+    institution: University of Bonn
+    date_start: 2026-04-01
+    date_end: ''
+    summary: |
+      Incoming international graduate student.
 
-  #     Specialized in machine learning and robotics.
   - area: BS Computer Engineering
     institution: Amirkabir university of technology(Tehran Polytechnic)
     icon: ""
@@ -71,77 +71,58 @@ work:
     company_name: Smartech
     company_url: 'https://smartech.ir/en'
     icon: ''
-    date_start: 2025-10-25
+    date_start: 2025-10-01
     date_end: ''
     summary: |2-
       Serving as a Backend Developer (FastAPI) in the InTouch team.
+
   - position: Software Engineer
     company_name: TOPS
     company_url: 'https://topsapp.net/'
     icon: ''
-    date_start: 2023-09-22
-    date_end: 2025-10-22
+    date_start: 2023-10-01
+    date_end: 2025-09-30
     summary: |
       Worked as a Backend Developer (Node.js, NestJS) on multiple projects across various business domains, including gaming, ERP, and marketplace platforms.
+
   - position: AI Intern
     company_name: Asr Goyesh Pardaz
     company_url: 'https://asr-gooyesh.com/en/'
     icon: ''
-    date_start: 2023-07-10
-    date_end: 2025-09-15
+    date_start: 2023-06-01
+    date_end: 2023-09-01
     summary: |
       Worked as a NLP intern and trained two persian Text-to-Speech models with VITS and Fastspeech and google colab
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Backend & Systems
     items:
-      - name: Python & FastAPI & Django
-        description: ''
-        percent: 75
-        icon: code-bracket
-      - name: Node.js & NestJS & AdonisJS
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Pytorch
-        description: ''
-        percent: 60
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 70
-        icon: chart-bar
-      - name: Cloud Computing
-        description: ''
-        percent: 80
-        icon: cloud
+      - name: FastAPI, Django
+      - name: NestJS, Node.js
+      - name: REST APIs & WebSockets
+      - name: Microservices Architecture
 
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+  - name: Data & Messaging
     items:
-      - name: Watching Football Games
-        description: ''
-        percent: 90
-        icon: person-simple-walk
-      - name: Walking
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Learning(Technics and Languages)
-        description: ''
-        percent: 80
-        icon: book-open
+      - name: PostgreSQL
+      - name: MongoDB
+      - name: Redis
+      - name: Kafka
+      - name: RabbitMQ
+
+  - name: DevOps
+    items:
+      - name: Docker & Docker Compose
+      - name: Nginx
+      - name: AWS S3
+      - name: Linux
 
 languages:
-  - name: Persian
-    percent: 100
-  - name: English
-    percent: 80
-  - name: German
-    percent: 30
+  - name: Persian (Native)
+  - name: English (Full Professional Proficiency – TOEFL iBT 102)
+  - name: German (A2 – improving)
 
 # # Awards.
 # #   Add/remove as many awards below as you like.
@@ -171,4 +152,8 @@ languages:
 #       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Mohamadhosein Sabaghi is a Computer Engineering student and Software Developer with a strong passion for continuous learning and innovation. His academic focus is on Artificial Intelligence, where he has gained hands-on experience through coursework and projects. Outside of his studies, he enjoys walking, watching football, and exploring new technologies.
+Mohamadhosein Sabaghi is a Backend Software Engineer with over three years of experience building scalable microservices and event-driven systems using FastAPI, NestJS, Kafka, and PostgreSQL.
+
+He has worked on high-throughput communication systems, distributed architectures, and performance-critical backend services in production environments.
+
+He will begin his M.Sc. in Computer Science at the University of Bonn in April 2026 and is currently seeking a Werkstudent or part-time backend engineering position in Germany.
