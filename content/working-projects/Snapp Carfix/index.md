@@ -15,6 +15,29 @@ tags:
   - Redis
 ---
 
-Contributed to the development of SnappCarFix, an e-commerce and ERP solution for automotive parts and accessories. Designed and implemented backend features for product management, sales processing, and inventory tracking.
+Backend system for SnappCarFix, an e-commerce and ERP solution for automotive parts, handling product management, sales workflows, and inventory tracking.
 
 <!--more-->
+
+## Role
+Backend Developer (NestJS) in a service-oriented architecture.
+
+## Architecture & Stack
+- NestJS (Node.js)
+- PostgreSQL
+- Redis caching
+- RabbitMQ for asynchronous workflows
+- Elasticsearch for search capabilities
+- Sentry for monitoring & error tracking
+
+## Responsibilities
+- Implemented backend services for product lifecycle management.
+- Designed order-processing workflows with asynchronous messaging.
+- Integrated Elasticsearch for high-performance product search.
+- Optimized PostgreSQL queries and indexing strategies.
+- Implemented caching strategies for high-traffic endpoints.
+
+## Engineering Focus
+- Ensuring transactional consistency across order workflows.
+- Designing scalable search infrastructure.
+- Monitoring and debugging production services.

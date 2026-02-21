@@ -12,6 +12,26 @@ tags:
   - Redis
 ---
 
-Developed Stonade, an e-commerce and ERP platform for selling rocks and related products, managing inventory, orders, and business operations.
+Full-stack backend system for an e-commerce and ERP platform managing stone product sales, inventory, and business operations.
 
 <!--more-->
+
+## Role
+Backend Developer (NestJS / AdonisJS)
+
+## Architecture & Stack
+- NestJS & AdonisJS
+- PostgreSQL
+- Redis
+- Sentry for production monitoring
+
+## Responsibilities
+- Designed REST APIs for multi-role user access.
+- Implemented inventory and order management logic.
+- Integrated Redis caching to improve response times.
+- Contributed to deployment and production debugging.
+
+## Engineering Focus
+- Role-based access control implementation.
+- Database schema design for business operations.
+- Performance optimization in multi-role systems.
