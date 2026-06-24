@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Backend Software Engineer | Distributed Systems | Incoming M.Sc. CS @ University of Bonn (Oct 2026)
+role: Backend Software Engineer | LLMs & AI-Powered Systems | Incoming M.Sc. CS @ University of Bonn (Oct 2026)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -42,10 +42,10 @@ profiles:
     url: https://www.linkedin.com/in/parsa-sabaghi-50715522b/
 
 interests:
-  - Distributed Systems
-  - Event-Driven Architectures
-  - Backend Performance Optimization
-  - Scalable Microservices
+  - Large Language Models (LLMs)
+  - AI Agents & Claude API
+  - AI-Powered Backend Systems
+  - Event-Driven & Scalable Architectures
 
 education:
   - area: M.Sc. Computer Science (Starting October 2026)
@@ -99,10 +99,19 @@ work:
 skills:
   - name: Backend & Systems
     items:
-      - name: FastAPI, Django
-      - name: NestJS, Node.js
+      - name: FastAPI, Django (Python)
+      - name: NestJS, Node.js (TypeScript)
+      - name: Spring Boot (Java / Kotlin)
+      - name: Go
       - name: REST APIs & WebSockets
       - name: Microservices Architecture
+
+  - name: AI & LLM Development
+    items:
+      - name: Claude API (Anthropic)
+      - name: LLM Integration & Prompt Engineering
+      - name: AI Agent Design
+      - name: Agentic Workflows & Tool Use
 
   - name: Data & Messaging
     items:
@@ -152,8 +161,8 @@ languages:
 #       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Mohamadhosein Sabaghi is a Backend Software Engineer with over three years of experience building scalable microservices and event-driven systems using FastAPI, NestJS, Kafka, and PostgreSQL.
+Mohamadhosein Sabaghi is a Backend Software Engineer with over three years of experience building scalable, production-grade systems using FastAPI, NestJS, Kafka, and PostgreSQL.
 
-He has worked on high-throughput communication systems, distributed architectures, and performance-critical backend services in production environments.
+He is passionate about Large Language Models and AI-powered applications — from integrating Claude and other LLM APIs into backend services to building intelligent, agent-based systems. His background spans event-driven architectures, microservices, and performance-critical backend engineering.
 
-He will begin his M.Sc. in Computer Science at the University of Bonn in April 2026 and is currently seeking a Werkstudent or part-time backend engineering position in Germany.
+He will begin his M.Sc. in Computer Science at the University of Bonn in October 2026 and is currently seeking a Werkstudent or part-time backend/AI engineering position in Germany.

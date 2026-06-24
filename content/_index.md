@@ -34,7 +34,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I love working in software, backend engineering, AI, and reinforcement learning. I’m curious, collaborative, and always open to learning or working together on educational or professional projects. Let’s connect!
+        I love building AI-powered backend systems — integrating LLMs like Claude into real products, designing agentic workflows, and shipping robust APIs at scale. I’m curious, collaborative, and always open to learning or working together on educational or professional projects. Let’s connect!
     design:
       columns: '1'
   # - block: collection
