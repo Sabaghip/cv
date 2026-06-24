@@ -74,7 +74,11 @@ work:
     date_start: 2025-10-01
     date_end: ''
     summary: |2-
-      Serving as a Backend Developer (FastAPI) in the InTouch team.
+      Working across two core products at Smartech, one of Iran's leading MarTech companies.
+
+      **InTrack** — one of Iran's largest marketing automation platforms. Contributed to feature development and significant performance improvements on the Kotlin-based backend. Led a large-scale codebase migration to Python and Go using Claude Code (Anthropic), modernizing the architecture while preserving production stability.
+
+      **InTouch** — backend development with FastAPI, building and maintaining high-throughput messaging and campaign delivery services.
 
   - position: Software Engineer
     company_name: TOPS
