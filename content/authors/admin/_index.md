@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Backend Software Engineer | Distributed Systems | Incoming M.Sc. CS @ University of Bonn
+role: Backend Software Engineer | Distributed Systems | Incoming M.Sc. CS @ University of Bonn (Oct 2026)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -48,9 +48,9 @@ interests:
   - Scalable Microservices
 
 education:
-  - area: M.Sc. Computer Science (Starting April 2026)
+  - area: M.Sc. Computer Science (Starting October 2026)
     institution: University of Bonn
-    date_start: 2026-04-01
+    date_start: 2026-10-01
     date_end: ''
     summary: |
       Incoming international graduate student.
