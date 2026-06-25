@@ -89,14 +89,23 @@ work:
     summary: |
       Worked as a Backend Developer (Node.js, NestJS) on multiple projects across various business domains, including gaming, ERP, and marketplace platforms.
 
+  - position: Teaching Assistant — Linear Algebra
+    company_name: Amirkabir University of Technology (Tehran Polytechnic)
+    company_url: 'https://aut.ac.ir/en'
+    icon: ''
+    date_start: 2023-03-01
+    date_end: 2025-04-01
+    summary: |
+      Teaching Assistant for Linear Algebra over 4 semesters. Held weekly sessions, graded assignments, and supported students in understanding core mathematical concepts.
+
   - position: AI Intern
-    company_name: Asr Goyesh Pardaz
+    company_name: Asr Gooyesh Pardaz
     company_url: 'https://asr-gooyesh.com/en/'
     icon: ''
     date_start: 2023-06-01
     date_end: 2023-09-01
     summary: |
-      Worked as a NLP intern and trained two persian Text-to-Speech models with VITS and Fastspeech and google colab
+      Worked as an NLP intern at Asr Gooyesh Pardaz (located at Sharif University of Technology). Trained two Persian Text-to-Speech models using VITS and FastSpeech. Built demo interfaces using Gradio and Telegram bot integrations.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
