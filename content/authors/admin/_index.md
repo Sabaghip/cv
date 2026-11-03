@@ -1,6 +1,6 @@
 ---
 # Display name
-title:Parsa (Mohamadhosein) Sabaghi
+title: Parsa (Mohamadhosein) Sabaghi
 
 # Name pronunciation (optional)
 name_pronunciation: ''
