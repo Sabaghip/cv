@@ -27,8 +27,8 @@ role: Backend Software Engineer | LLMs & AI-Powered Systems | M.Sc. CS Student @
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Smartech
-    url: https://smartech.ir/en
+  - name: University of Bonn
+    url: https://www.uni-bonn.de/en
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -55,6 +55,13 @@ education:
     summary: |
             International graduate student.
 
+  - area: M.Sc. Computer Engineering
+    institution: Sharif University of Technology
+    date_start: 2025-10-01
+    date_end: 2026-08-01
+    summary: |
+      Coursework completed; GPA: 18.2/20 (4.00/4.00)
+
   - area: BS Computer Engineering
     institution: Amirkabir university of technology(Tehran Polytechnic)
     icon: ""
@@ -72,9 +79,9 @@ work:
     company_url: 'https://smartech.ir/en'
     icon: ''
     date_start: 2025-10-01
-    date_end: ''
+    date_end: 2026-08-01
     summary: |2-
-      Working across two core products at Smartech, one of Iran's leading MarTech companies.
+      Worked across two core products at Smartech, one of Iran's leading MarTech companies.
 
       **InTrack** — one of Iran's largest marketing automation platforms. Contributed to feature development and significant performance improvements on the Kotlin-based backend. Led a large-scale codebase migration to Python and Go using Claude Code (Anthropic), modernizing the architecture while preserving production stability.
 
