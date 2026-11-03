@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Backend Software Engineer | LLMs & AI-Powered Systems | Incoming M.Sc. CS @ University of Bonn (Oct 2026)
+role: Backend Software Engineer | LLMs & AI-Powered Systems | M.Sc. CS Student @ University of Bonn
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -48,12 +48,12 @@ interests:
   - Event-Driven & Scalable Architectures
 
 education:
-  - area: M.Sc. Computer Science (Starting October 2026)
+  - area: M.Sc. Computer Science
     institution: University of Bonn
     date_start: 2026-10-01
     date_end: ''
     summary: |
-      Incoming international graduate student.
+            International graduate student.
 
   - area: BS Computer Engineering
     institution: Amirkabir university of technology(Tehran Polytechnic)
@@ -178,4 +178,4 @@ Mohamadhosein (Parsa) Sabaghi is a Backend Software Engineer with over three yea
 
 He is passionate about Large Language Models and AI-powered applications — from integrating Claude and other LLM APIs into backend services to building intelligent, agent-based systems. His background spans event-driven architectures, microservices, and performance-critical backend engineering.
 
-He will begin his M.Sc. in Computer Science at the University of Bonn in October 2026 and is currently seeking a Werkstudent or part-time backend/AI engineering position in Germany.
+He began his M.Sc. in Computer Science at the University of Bonn in October 2026 and is currently seeking a Werkstudent or part-time backend/AI engineering position in Germany.
