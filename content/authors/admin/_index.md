@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mohamadhosein Sabaghi
+title:Parsa (Mohamadhosein) Sabaghi
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -174,7 +174,7 @@ languages:
 #       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Mohamadhosein Sabaghi is a Backend Software Engineer with over three years of experience building scalable, production-grade systems using FastAPI, NestJS, Kafka, and PostgreSQL.
+Mohamadhosein (Parsa) Sabaghi is a Backend Software Engineer with over three years of experience building scalable, production-grade systems using FastAPI, NestJS, Kafka, and PostgreSQL.
 
 He is passionate about Large Language Models and AI-powered applications — from integrating Claude and other LLM APIs into backend services to building intelligent, agent-based systems. His background spans event-driven architectures, microservices, and performance-critical backend engineering.
 
